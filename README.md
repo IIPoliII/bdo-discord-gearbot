@@ -26,3 +26,7 @@ Bot has:
 Bot can be edited for other mmos/games just dm me on discord and will help you out.
 
 Lolzy#3416 for questions, bug or suggestions.
+
+-----------------------------------------------------------------------------------------
+
+Discord python errors fix here : https://github.com/IIPoliII/bdo-discord-gearbot/issues/1
