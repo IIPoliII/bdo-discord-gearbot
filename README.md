@@ -11,9 +11,9 @@ Bot has:
 
 !gear + @mention to see someone else gear
 
-!update stats + ap + dp + new link to update gear instead of using !gear full 
+!update stats ap awaap dp newlink to update gear instead of using !gear full 
 
-!update level + level to update your level
+!update level newlevel to update your level
 
 !fsupdate +@mention to manually update someone 
 
