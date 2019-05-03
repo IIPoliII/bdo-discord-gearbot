@@ -111,8 +111,8 @@ async def show_help(message):
     embed.add_field(name="Classes Rules",value="For Dark Knight use dk",inline=False)
     embed.add_field(name="Gear Pic Rules",value="Use a direct link to the picture(url must end with .jpg/.png)use ShareX, it's free",inline=False)
     embed.add_field(name="See Gear",value="Use !gear +@someone",inline=False)
-    embed.add_field(name="Gear Update",value="Use !update stats + ap + dp + gear link",inline=False)
-    embed.add_field(name="Level Update",value="Use !update level + new level",inline=False)
+    embed.add_field(name="Gear Update",value="Use !update stats ap awaap dp gearlink",inline=False)
+    embed.add_field(name="Level Update",value="Use !update level newlevel",inline=False)
     await client.send_message(message.channel,embed=embed)
 
 def class_check(class_name):
